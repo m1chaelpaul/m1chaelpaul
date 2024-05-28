@@ -1,5 +1,5 @@
 <h1 align="center">Halo me name iz Michael</h1>
-<h3 align="center">INDIA 🍛 || Java, Python, C++, Lua</h3>
+<h3 align="center">INDIA 🍛 <br> Java, Python, C++, Lua</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m1chaelpaul&label=Profile%20views&color=0e75b6&style=flat" alt="m1chaelpaul" /> </p>
 
@@ -13,8 +13,8 @@
 
 - 👨‍💻 All of my projects are available at [on mah github or twitter (not x!!)](on mah github or twitter (not x!!))
 
-- 💬 Ask me about **Arrays!1!**
-
+- 💬 Do not ask me about datastores or vector3s! I don't like to CFrame objects!
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/riddleminecart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="riddleminecart" height="30" width="40" /></a>
