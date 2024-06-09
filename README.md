@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Luau**
 
-- 👨‍💻 All of my projects are available at [on mah github or twitter (not x!!)](on mah github or twitter (not x!!))
+- 👨‍💻 All of my projects are available at [on mah github or twitter (not x!!)]
 
 - 💬 Do not ask me about datastores or vector3s! I don't like to CFrame objects!
   
