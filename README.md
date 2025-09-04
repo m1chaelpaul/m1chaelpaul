@@ -1,5 +1,5 @@
-<h1 align="center">Halo me name iz Michael</h1>
-<h3 align="center">amurica 🦅🦅🏈🏈 <br> Java, Python, C++, Lua</h3>
+<h1 align="center">Hello my name iz michael</h1>
+<h3 align="center">i like burritos and driving cars<br>Java master, Lua amateur</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m1chaelpaul&label=Profile%20views&color=0e75b6&style=flat" alt="m1chaelpaul" /> </p>
 
@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **a secret project.... shhhhh**
 
-- 🌱 I’m currently learning **Luau**
+- 🌱 I’m currently learning **Lua**
 
-- 👨‍💻 All of my projects are available at [on mah github or twitter (not x!!)]
+- 👨‍💻 All of my projects are available on my github?!
 
-- 💬 Do not ask me about datastores or vector3s! I don't like to CFrame objects!
+- 💬 Do not ask me datastores
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
